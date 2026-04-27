@@ -1,0 +1,1 @@
+This project analyzes retail demand using the M5 Walmart dataset and compares four modeling approaches: a historical baseline, a log-log regression model, a zero-shot time series model (Chronos), and a feature-rich XGBoost model. We evaluate predictive performance and examine key drivers of demand, including price, SNAP timing, and events.
